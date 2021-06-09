@@ -325,7 +325,7 @@ const MarketingPage = () => {
                             <img className="content-img" src={plantcard} alt="plant card example" />
                         </div>
                         <div className="register-banner">
-                            <Link className="link register" to='/register'>Register & Get Your Plants Wet Today!</Link>
+                            <Link className="link register" to='/register'>Register & Start Watering Your Plants Today!</Link>
                         </div>
                     </div>
                 </section>
